@@ -106,7 +106,7 @@ cls # linus
 #### GIT STATUS ####
 ¿Que hace? Verifica el estado de los archivos y en que area (o en que parte de la estructura virtual) están los archivos
 
-* UNTRACKED: Que los archivos aún están en el working directory (WD) y no están siendo seguidos (controlados) por GIT.
+* UNTRACKED: Que los archivos aún están en el working directory (WD) y no están siendo seguidos (controlados) por GIT. WATAFACK
 
 * STAGED: Archivos que están preparados para crear un commit (Sacar la foto) El snapshot y preservar los cambios hechos de mi código fuente. (PRE FOTO) MODIFICACIÓN
 
